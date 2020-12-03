@@ -89,6 +89,8 @@ hermit_social = [
     { name = "email", link = "mailto:author@domain.com" }
 ]
 
+accent_color = "dark"
+
 [extra.highlightjs]
 enable = false
 clipboard = false
